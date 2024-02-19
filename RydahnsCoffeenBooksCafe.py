@@ -34,7 +34,7 @@ total = subtotal + total_tax
 print("Rydahn's Coffee 'n' Books Café Receipt")
 print()
 print(str(value1) + " coffees at $5 each: $" + str(subtotal_coffee))
-print(str(value2) +  " muffins at $4 each: $" + str(subtotal_muffin))
+print(str(value2) + " muffins at $4 each: $" + str(subtotal_muffin))
 print(str(value3) + " parfaits at $6 each: $" + str(subtotal_parfait))
 print(str(value4) + " bagels at $4 each: $" + str(subtotal_bagel))
 print("6% tax: $" + str(total_tax))
